@@ -382,9 +382,9 @@ import BreadCrumbs from '@/components/BreadCrumbs.vue'
 
         <h3>Приложения для скачивания:</h3>
         <br />
-        <a href="/doc/2023_prilozhenie_1.docx" target="_blank">Приложение №1</a>
-        <a href="/doc/2023_prilozhenie_2.docx" target="_blank">Приложение №2</a>
-        <a href="/doc/2023_prilozhenie_3.docx" target="_blank">Приложение №3</a>
+        <a href="/doc/2023_prilozhenie_1.pdf" target="_blank">Приложение №1</a>
+        <a href="/doc/2023_prilozhenie_2.pdf" target="_blank">Приложение №2</a>
+        <a href="/doc/2023_prilozhenie_3.pdf" target="_blank">Приложение №3</a>
       </article>
     </section>
   </main>
