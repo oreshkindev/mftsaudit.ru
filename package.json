@@ -5,7 +5,7 @@
   "scripts": {
     "build": "vite build",
     "dev": "vite",
-    "deploy": "cd dist && scp -r * mftsaudit_ssh@mftsaudit.beget.tech:mftsaudit.ru/public_html/",
+    "deploy": "vite build && sshpass -f ./rsync_pass rsync --archive --compress --delete ./dist/* mftsaudit_ssh@mftsaudit.beget.tech:.",
     "format": "prettier --write src/",
     "lint": "eslint . --ext .vue,.js,.jsx,.cjs,.mjs --fix --ignore-path .gitignore",
     "preview": "vite preview"

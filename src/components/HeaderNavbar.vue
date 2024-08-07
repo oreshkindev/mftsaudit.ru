@@ -44,25 +44,25 @@ import DropdownItem from './DropdownItem.vue'
 
         <DropdownContent>
           <li>
-            <RouterLink to="/reports/public/report2017">Отчет за 2017 год</RouterLink>
+            <RouterLink to="/reports/public/report2017">2017 год</RouterLink>
           </li>
           <li>
-            <RouterLink to="/reports/public/report2018">Отчет за 2018 год</RouterLink>
+            <RouterLink to="/reports/public/report2018">2018 год</RouterLink>
           </li>
           <li>
-            <RouterLink to="/reports/public/report2019">Отчет за 2019 год</RouterLink>
+            <RouterLink to="/reports/public/report2019">2019 год</RouterLink>
           </li>
           <li>
-            <RouterLink to="/reports/public/report2020">Отчет за 2020 год</RouterLink>
+            <RouterLink to="/reports/public/report2020">2020 год</RouterLink>
           </li>
           <li>
-            <RouterLink to="/reports/public/report2021">Отчет за 2021 год</RouterLink>
+            <RouterLink to="/reports/public/report2021">2021 год</RouterLink>
           </li>
           <li>
-            <RouterLink to="/reports/public/report2022">Отчет за 2022 год</RouterLink>
+            <RouterLink to="/reports/public/report2022">2022 год</RouterLink>
           </li>
           <li>
-            <RouterLink to="/reports/public/report2023">Отчет за 2023 год</RouterLink>
+            <a href="https://mftsaudit.ru/doc/2023-otchet.docx" download>2023 год</a>
           </li>
         </DropdownContent>
       </DropdownItem>
@@ -83,7 +83,7 @@ nav {
   }
 }
 
-/* 
+/*
 Use a media query to add a breakpoint at 826px:
 */
 

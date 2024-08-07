@@ -82,6 +82,18 @@ import BreadCrumbs from '@/components/BreadCrumbs.vue'
         <source srcset="@/assets/images/df3a57601.75f49d42.webp" type="image/webp" />
         <img src="@/assets/images/df3a57601.1f2b666b.jpg" alt="Благодарственное письмо" />
       </picture>
+
+      <picture>
+        <source srcset="@/assets/images/imawffg4aw.avif" type="image/avif" />
+        <source srcset="@/assets/images/imawffg4aw.webp" type="image/webp" />
+        <img src="@/assets/images/imawffg4aw.jpg" alt="Благодарственное письмо" />
+      </picture>
+
+      <picture>
+        <source srcset="@/assets/images/img4.avif" type="image/avif" />
+        <source srcset="@/assets/images/img4.webp" type="image/webp" />
+        <img src="@/assets/images/img4.jpg" alt="Страховой полис" />
+      </picture>
     </section>
   </main>
 </template>
