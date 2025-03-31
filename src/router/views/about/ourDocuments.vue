@@ -94,6 +94,12 @@ import BreadCrumbs from '@/components/BreadCrumbs.vue'
         <source srcset="@/assets/images/img4.webp" type="image/webp" />
         <img src="@/assets/images/img4.jpg" alt="Страховой полис" />
       </picture>
+
+      <picture>
+        <source srcset="@/assets/images/2025_234852.avif" type="image/avif" />
+        <source srcset="@/assets/images/2025_234852.webp" type="image/webp" />
+        <img src="@/assets/images/2025_234852.jpeg" alt="Страховой полис" />
+      </picture>
     </section>
   </main>
 </template>

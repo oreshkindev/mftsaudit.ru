@@ -44,25 +44,28 @@ import DropdownItem from './DropdownItem.vue'
 
         <DropdownContent>
           <li>
-            <RouterLink to="/reports/public/report2017">2017 год</RouterLink>
+            <a href="https://mftsaudit.ru/doc/2017-otchet.pdf" download>2017 год</a>
           </li>
           <li>
-            <RouterLink to="/reports/public/report2018">2018 год</RouterLink>
+            <a href="https://mftsaudit.ru/doc/2018-otchet.pdf" download>2018 год</a>
           </li>
           <li>
-            <RouterLink to="/reports/public/report2019">2019 год</RouterLink>
+            <a href="https://mftsaudit.ru/doc/2019-otchet.pdf" download>2019 год</a>
           </li>
           <li>
-            <RouterLink to="/reports/public/report2020">2020 год</RouterLink>
+            <a href="https://mftsaudit.ru/doc/2020-otchet.pdf" download>2020 год</a>
           </li>
           <li>
-            <RouterLink to="/reports/public/report2021">2021 год</RouterLink>
+            <a href="https://mftsaudit.ru/doc/2021-otchet.pdf" download>2021 год</a>
           </li>
           <li>
-            <RouterLink to="/reports/public/report2022">2022 год</RouterLink>
+            <a href="https://mftsaudit.ru/doc/2022-otchet.pdf" download>2022 год</a>
           </li>
           <li>
-            <a href="https://mftsaudit.ru/doc/2023-otchet.docx" download>2023 год</a>
+            <a href="https://mftsaudit.ru/doc/2023-otchet.pdf" download>2023 год</a>
+          </li>
+          <li>
+            <a href="https://mftsaudit.ru/doc/2024-otchet.pdf" download>2024 год</a>
           </li>
         </DropdownContent>
       </DropdownItem>
